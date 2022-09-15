@@ -11,3 +11,10 @@ Format Diagram <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 
 ## Entity Relationship Diagram
 ![Diagram Image Link](./diagrams/erd.svg)
+
+# Links
+* [PlantUML Website](https://plantuml.com/)
+* [PlantUML Reference Guide](https://plantuml.com/guide)
+* [PlantUML Themes](https://the-lum.github.io/puml-themes-gallery/)
+* [Examples](https://real-world-plantuml.com/)
+* [Examples & live editor](https://www.planttext.com/)
