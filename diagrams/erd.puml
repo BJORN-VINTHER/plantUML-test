@@ -1,0 +1,98 @@
+@startuml erd
+title UAM Entity Relation Diagram
+
+
+' ==================== Styles ====================
+!function $type($text) !return "<color:SandyBrown>" + $text + "</color>"
+hide empty members
+
+' !theme reddress-darkblue
+' skinparam linetype ortho
+' skinparam ArrowColor #111
+' skinparam ArrowFontSize 0
+
+
+' ==================== Entities ====================
+entity User {
+  Id : $type(guid)
+  UserType : $type(enum)
+  Email : $type(string)
+  FirstName : $type(string)
+  LastName : $type(string)
+  ActiveUam : $type(boolean)
+  ActiveAad : $type(boolean)
+  UserIdAad : $type("string?")
+  UserNameAad : $type("string?")
+  LastLoginDate : $type(NodaTime)
+}
+
+entity Company {
+  Id : $type(guid)
+  CountryCode : $type(string)
+  BECode : $type(string)
+  FunctionCode : $type(string)
+  IsDeleted : $type(boolean)
+}
+
+entity UserCompany {
+  Id : $type(guid)
+  UserId : $type(guid)
+  CompanyId: $type(guid)
+}
+
+entity UserGroup {
+  Id : $type(guid)
+  Name : $type(string)
+  Description : $type(string)
+  CSI  : $type(boolean)
+  IsDeleted : $type(boolean)
+}
+
+entity Capability {
+  Id : $type(guid)
+  Name : $type(string)
+  Description : $type(string)
+  CSI : $type(boolean)
+  IsDeleted : $type(boolean)
+}
+
+entity Permission {
+  Id : $type(guid)
+  Name : $type(string)
+  Description : $type(string)
+}
+
+entity UserGroupCapability {
+  Id : $type(guid)
+  UserGroupId : $type(guid)
+  CapabilityId : $type(guid)
+  PermissionId : $type(guid)
+}
+
+entity UserGroupGroup {
+  Id : $type(guid)
+  UserGroupId : $type(guid)
+  UserId: $type(guid)
+}
+
+' ==================== Relations ====================
+
+User        "1" -down-{   "*"  UserCompany
+Company     "1" --{       "*"  UserCompany
+User        "1" --{       "*"  UserGroupGroup
+UserGroup   "1" --{       "*"  UserGroupGroup
+UserGroup   "1" -left-{   "*"  UserGroupCapability
+Capability  "1" -down-{   "*"  UserGroupCapability
+Permission  "1" -up-{     "*"  UserGroupCapability
+
+' ==================== Notes ====================
+
+note right of Capability
+   **CSI** = Contains Customer Sensitive Information
+end note
+
+note top of User
+   **UserType** = [Internal, External]
+end note
+
+@enduml

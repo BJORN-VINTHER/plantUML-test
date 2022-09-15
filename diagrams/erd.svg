@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="609px" preserveAspectRatio="none" style="width:866px;height:609px;background:#FFFFFF;" version="1.1" viewBox="0 0 866 609" width="866px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="27.6094" id="_title" style="stroke:none;stroke-width:1.0;" width="208" x="322" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="198" x="327" y="24.5332">UAM Entity Relation Diagram</text><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><g id="elem_User"><rect codeLine="15" fill="#F1F1F1" height="216.0938" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="180" x="496" y="233.6094"/><ellipse cx="567.25" cy="249.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M566.1094,250.4063 L566.1094,252.9063 L570.4375,252.9063 L570.4375,251.9844 Q570.4375,251.375 570.6797,251.1094 Q570.9219,250.8438 571.2969,250.8438 Q571.6719,250.8438 571.9063,251.1094 Q572.1406,251.375 572.1406,251.9844 L572.1406,254.6094 L564.1406,254.6094 Q563.5156,254.6094 563.2578,254.375 Q563,254.1406 563,253.75 Q563,253.375 563.2656,253.1406 Q563.5313,252.9063 564.1406,252.9063 L564.4063,252.9063 L564.4063,246.25 L564.1406,246.25 Q563.5156,246.25 563.2578,246.0156 Q563,245.7813 563,245.3906 Q563,245.0156 563.2578,244.7813 Q563.5156,244.5469 564.1406,244.5469 L571.7656,244.5469 L571.7656,247.1406 Q571.7656,247.75 571.5391,248.0078 Q571.3125,248.2656 570.9219,248.2656 Q570.5469,248.2656 570.3125,248.0078 Q570.0781,247.75 570.0781,247.1406 L570.0781,246.25 L566.1094,246.25 L566.1094,248.7031 L567.5938,248.7031 Q567.5938,248.0469 567.7188,247.8594 Q567.9844,247.4531 568.4531,247.4531 Q568.8281,247.4531 569.0625,247.7109 Q569.2969,247.9688 569.2969,248.5781 L569.2969,250.5469 Q569.2969,251.0938 569.1719,251.2813 Q568.9063,251.6719 568.4531,251.6719 Q567.9844,251.6719 567.7188,251.2656 Q567.5938,251.0781 567.5938,250.4063 L566.1094,250.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="587.75" y="255.3379">User</text><line style="stroke:#181818;stroke-width:0.5;" x1="497" x2="675" y1="265.6094" y2="265.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="502" y="284.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="525" y="284.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="502" y="301.752">UserType :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="575" y="301.752">enum</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="502" y="319.3613">Email :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="548" y="319.3613">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="502" y="336.9707">FirstName :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="578" y="336.9707">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="502" y="354.5801">LastName :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="577" y="354.5801">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="502" y="372.1895">ActiveUam :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="580" y="372.1895">boolean</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="502" y="389.7988">ActiveAad :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="577" y="389.7988">boolean</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="502" y="407.4082">UserIdAad :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="579" y="407.4082">string?</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="502" y="425.0176">UserNameAad :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="604" y="425.0176">string?</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="502" y="442.627">LastLoginDate :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="606" y="442.627">NodaTime</text></g><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><g id="elem_Company"><rect codeLine="28" fill="#F1F1F1" height="128.0469" id="Company" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="148" x="711" y="277.6094"/><ellipse cx="751.2" cy="293.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M750.0594,294.4063 L750.0594,296.9063 L754.3875,296.9063 L754.3875,295.9844 Q754.3875,295.375 754.6297,295.1094 Q754.8719,294.8438 755.2469,294.8438 Q755.6219,294.8438 755.8563,295.1094 Q756.0906,295.375 756.0906,295.9844 L756.0906,298.6094 L748.0906,298.6094 Q747.4656,298.6094 747.2078,298.375 Q746.95,298.1406 746.95,297.75 Q746.95,297.375 747.2156,297.1406 Q747.4813,296.9063 748.0906,296.9063 L748.3563,296.9063 L748.3563,290.25 L748.0906,290.25 Q747.4656,290.25 747.2078,290.0156 Q746.95,289.7813 746.95,289.3906 Q746.95,289.0156 747.2078,288.7813 Q747.4656,288.5469 748.0906,288.5469 L755.7156,288.5469 L755.7156,291.1406 Q755.7156,291.75 755.4891,292.0078 Q755.2625,292.2656 754.8719,292.2656 Q754.4969,292.2656 754.2625,292.0078 Q754.0281,291.75 754.0281,291.1406 L754.0281,290.25 L750.0594,290.25 L750.0594,292.7031 L751.5438,292.7031 Q751.5438,292.0469 751.6688,291.8594 Q751.9344,291.4531 752.4031,291.4531 Q752.7781,291.4531 753.0125,291.7109 Q753.2469,291.9688 753.2469,292.5781 L753.2469,294.5469 Q753.2469,295.0938 753.1219,295.2813 Q752.8563,295.6719 752.4031,295.6719 Q751.9344,295.6719 751.6688,295.2656 Q751.5438,295.0781 751.5438,294.4063 L750.0594,294.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="770.8" y="299.3379">Company</text><line style="stroke:#181818;stroke-width:0.5;" x1="712" x2="858" y1="309.6094" y2="309.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="717" y="328.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="740" y="328.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="717" y="345.752">CountryCode :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="813" y="345.752">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="717" y="363.3613">BECode :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="781" y="363.3613">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="717" y="380.9707">FunctionCode :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="818" y="380.9707">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="717" y="398.5801">IsDeleted :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="788" y="398.5801">boolean</text></g><!--MD5=[3b1a2736853fa777cd983253ffa4e8c1]
+class UserCompany--><g id="elem_UserCompany"><rect codeLine="36" fill="#F1F1F1" height="92.8281" id="UserCompany" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="121" x="624.5" y="509.6094"/><ellipse cx="639.5" cy="525.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M638.3594,526.4063 L638.3594,528.9063 L642.6875,528.9063 L642.6875,527.9844 Q642.6875,527.375 642.9297,527.1094 Q643.1719,526.8438 643.5469,526.8438 Q643.9219,526.8438 644.1563,527.1094 Q644.3906,527.375 644.3906,527.9844 L644.3906,530.6094 L636.3906,530.6094 Q635.7656,530.6094 635.5078,530.375 Q635.25,530.1406 635.25,529.75 Q635.25,529.375 635.5156,529.1406 Q635.7813,528.9063 636.3906,528.9063 L636.6563,528.9063 L636.6563,522.25 L636.3906,522.25 Q635.7656,522.25 635.5078,522.0156 Q635.25,521.7813 635.25,521.3906 Q635.25,521.0156 635.5078,520.7813 Q635.7656,520.5469 636.3906,520.5469 L644.0156,520.5469 L644.0156,523.1406 Q644.0156,523.75 643.7891,524.0078 Q643.5625,524.2656 643.1719,524.2656 Q642.7969,524.2656 642.5625,524.0078 Q642.3281,523.75 642.3281,523.1406 L642.3281,522.25 L638.3594,522.25 L638.3594,524.7031 L639.8438,524.7031 Q639.8438,524.0469 639.9688,523.8594 Q640.2344,523.4531 640.7031,523.4531 Q641.0781,523.4531 641.3125,523.7109 Q641.5469,523.9688 641.5469,524.5781 L641.5469,526.5469 Q641.5469,527.0938 641.4219,527.2813 Q641.1563,527.6719 640.7031,527.6719 Q640.2344,527.6719 639.9688,527.2656 Q639.8438,527.0781 639.8438,526.4063 L638.3594,526.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="653.5" y="531.3379">UserCompany</text><line style="stroke:#181818;stroke-width:0.5;" x1="625.5" x2="744.5" y1="541.6094" y2="541.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="630.5" y="560.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="653.5" y="560.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="630.5" y="577.752">UserId :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="682.5" y="577.752">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="630.5" y="595.3613">CompanyId:</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="709.5" y="595.3613">guid</text></g><!--MD5=[fd70d1aa4303ee57056d862122d2a7d5]
+class UserGroup--><g id="elem_UserGroup"><rect codeLine="42" fill="#F1F1F1" height="128.0469" id="UserGroup" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="308" y="277.6094"/><ellipse cx="337.85" cy="293.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M336.7094,294.4063 L336.7094,296.9063 L341.0375,296.9063 L341.0375,295.9844 Q341.0375,295.375 341.2797,295.1094 Q341.5219,294.8438 341.8969,294.8438 Q342.2719,294.8438 342.5063,295.1094 Q342.7406,295.375 342.7406,295.9844 L342.7406,298.6094 L334.7406,298.6094 Q334.1156,298.6094 333.8578,298.375 Q333.6,298.1406 333.6,297.75 Q333.6,297.375 333.8656,297.1406 Q334.1313,296.9063 334.7406,296.9063 L335.0063,296.9063 L335.0063,290.25 L334.7406,290.25 Q334.1156,290.25 333.8578,290.0156 Q333.6,289.7813 333.6,289.3906 Q333.6,289.0156 333.8578,288.7813 Q334.1156,288.5469 334.7406,288.5469 L342.3656,288.5469 L342.3656,291.1406 Q342.3656,291.75 342.1391,292.0078 Q341.9125,292.2656 341.5219,292.2656 Q341.1469,292.2656 340.9125,292.0078 Q340.6781,291.75 340.6781,291.1406 L340.6781,290.25 L336.7094,290.25 L336.7094,292.7031 L338.1938,292.7031 Q338.1938,292.0469 338.3188,291.8594 Q338.5844,291.4531 339.0531,291.4531 Q339.4281,291.4531 339.6625,291.7109 Q339.8969,291.9688 339.8969,292.5781 L339.8969,294.5469 Q339.8969,295.0938 339.7719,295.2813 Q339.5063,295.6719 339.0531,295.6719 Q338.5844,295.6719 338.3188,295.2656 Q338.1938,295.0781 338.1938,294.4063 L336.7094,294.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="355.15" y="299.3379">UserGroup</text><line style="stroke:#181818;stroke-width:0.5;" x1="309" x2="441" y1="309.6094" y2="309.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="314" y="328.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="337" y="328.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="314" y="345.752">Name :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="362" y="345.752">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="314" y="363.3613">Description :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="397" y="363.3613">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="314" y="380.9707">CSI  :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="352" y="380.9707">boolean</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="314" y="398.5801">IsDeleted :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="385" y="398.5801">boolean</text></g><!--MD5=[07b8cd14e43b1ef01e35c81bb551dfa2]
+class Capability--><g id="elem_Capability"><rect codeLine="50" fill="#F1F1F1" height="128.0469" id="Capability" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="7" y="45.6094"/><ellipse cx="40" cy="61.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M38.8594,62.4063 L38.8594,64.9063 L43.1875,64.9063 L43.1875,63.9844 Q43.1875,63.375 43.4297,63.1094 Q43.6719,62.8438 44.0469,62.8438 Q44.4219,62.8438 44.6563,63.1094 Q44.8906,63.375 44.8906,63.9844 L44.8906,66.6094 L36.8906,66.6094 Q36.2656,66.6094 36.0078,66.375 Q35.75,66.1406 35.75,65.75 Q35.75,65.375 36.0156,65.1406 Q36.2813,64.9063 36.8906,64.9063 L37.1563,64.9063 L37.1563,58.25 L36.8906,58.25 Q36.2656,58.25 36.0078,58.0156 Q35.75,57.7813 35.75,57.3906 Q35.75,57.0156 36.0078,56.7813 Q36.2656,56.5469 36.8906,56.5469 L44.5156,56.5469 L44.5156,59.1406 Q44.5156,59.75 44.2891,60.0078 Q44.0625,60.2656 43.6719,60.2656 Q43.2969,60.2656 43.0625,60.0078 Q42.8281,59.75 42.8281,59.1406 L42.8281,58.25 L38.8594,58.25 L38.8594,60.7031 L40.3438,60.7031 Q40.3438,60.0469 40.4688,59.8594 Q40.7344,59.4531 41.2031,59.4531 Q41.5781,59.4531 41.8125,59.7109 Q42.0469,59.9688 42.0469,60.5781 L42.0469,62.5469 Q42.0469,63.0938 41.9219,63.2813 Q41.6563,63.6719 41.2031,63.6719 Q40.7344,63.6719 40.4688,63.2656 Q40.3438,63.0781 40.3438,62.4063 L38.8594,62.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="58" y="67.3379">Capability</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="140" y1="77.6094" y2="77.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="13" y="96.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="36" y="96.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="13" y="113.752">Name :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="61" y="113.752">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="13" y="131.3613">Description :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="96" y="131.3613">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="13" y="148.9707">CSI :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="47" y="148.9707">boolean</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="13" y="166.5801">IsDeleted :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="84" y="166.5801">boolean</text></g><!--MD5=[03da7ad6344b0b2c818a169ad3cc63fd]
+class Permission--><g id="elem_Permission"><rect codeLine="58" fill="#F1F1F1" height="92.8281" id="Permission" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="130" x="87" y="509.6094"/><ellipse cx="115.05" cy="525.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M113.9094,526.4063 L113.9094,528.9063 L118.2375,528.9063 L118.2375,527.9844 Q118.2375,527.375 118.4797,527.1094 Q118.7219,526.8438 119.0969,526.8438 Q119.4719,526.8438 119.7063,527.1094 Q119.9406,527.375 119.9406,527.9844 L119.9406,530.6094 L111.9406,530.6094 Q111.3156,530.6094 111.0578,530.375 Q110.8,530.1406 110.8,529.75 Q110.8,529.375 111.0656,529.1406 Q111.3313,528.9063 111.9406,528.9063 L112.2063,528.9063 L112.2063,522.25 L111.9406,522.25 Q111.3156,522.25 111.0578,522.0156 Q110.8,521.7813 110.8,521.3906 Q110.8,521.0156 111.0578,520.7813 Q111.3156,520.5469 111.9406,520.5469 L119.5656,520.5469 L119.5656,523.1406 Q119.5656,523.75 119.3391,524.0078 Q119.1125,524.2656 118.7219,524.2656 Q118.3469,524.2656 118.1125,524.0078 Q117.8781,523.75 117.8781,523.1406 L117.8781,522.25 L113.9094,522.25 L113.9094,524.7031 L115.3938,524.7031 Q115.3938,524.0469 115.5188,523.8594 Q115.7844,523.4531 116.2531,523.4531 Q116.6281,523.4531 116.8625,523.7109 Q117.0969,523.9688 117.0969,524.5781 L117.0969,526.5469 Q117.0969,527.0938 116.9719,527.2813 Q116.7063,527.6719 116.2531,527.6719 Q115.7844,527.6719 115.5188,527.2656 Q115.3938,527.0781 115.3938,526.4063 L113.9094,526.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="131.95" y="531.3379">Permission</text><line style="stroke:#181818;stroke-width:0.5;" x1="88" x2="216" y1="541.6094" y2="541.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="93" y="560.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="116" y="560.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="93" y="577.752">Name :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="141" y="577.752">string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="93" y="595.3613">Description :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="176" y="595.3613">string</text></g><!--MD5=[d0fa72d8eed45a72de10705f3f16ae68]
+class UserGroupCapability--><g id="elem_UserGroupCapability"><rect codeLine="64" fill="#F1F1F1" height="110.4375" id="UserGroupCapability" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="163" x="70.5" y="286.6094"/><ellipse cx="85.5" cy="302.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M84.3594,303.4063 L84.3594,305.9063 L88.6875,305.9063 L88.6875,304.9844 Q88.6875,304.375 88.9297,304.1094 Q89.1719,303.8438 89.5469,303.8438 Q89.9219,303.8438 90.1563,304.1094 Q90.3906,304.375 90.3906,304.9844 L90.3906,307.6094 L82.3906,307.6094 Q81.7656,307.6094 81.5078,307.375 Q81.25,307.1406 81.25,306.75 Q81.25,306.375 81.5156,306.1406 Q81.7813,305.9063 82.3906,305.9063 L82.6563,305.9063 L82.6563,299.25 L82.3906,299.25 Q81.7656,299.25 81.5078,299.0156 Q81.25,298.7813 81.25,298.3906 Q81.25,298.0156 81.5078,297.7813 Q81.7656,297.5469 82.3906,297.5469 L90.0156,297.5469 L90.0156,300.1406 Q90.0156,300.75 89.7891,301.0078 Q89.5625,301.2656 89.1719,301.2656 Q88.7969,301.2656 88.5625,301.0078 Q88.3281,300.75 88.3281,300.1406 L88.3281,299.25 L84.3594,299.25 L84.3594,301.7031 L85.8438,301.7031 Q85.8438,301.0469 85.9688,300.8594 Q86.2344,300.4531 86.7031,300.4531 Q87.0781,300.4531 87.3125,300.7109 Q87.5469,300.9688 87.5469,301.5781 L87.5469,303.5469 Q87.5469,304.0938 87.4219,304.2813 Q87.1563,304.6719 86.7031,304.6719 Q86.2344,304.6719 85.9688,304.2656 Q85.8438,304.0781 85.8438,303.4063 L84.3594,303.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="99.5" y="308.3379">UserGroupCapability</text><line style="stroke:#181818;stroke-width:0.5;" x1="71.5" x2="232.5" y1="318.6094" y2="318.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="76.5" y="337.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="99.5" y="337.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="76.5" y="354.752">UserGroupId :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="168.5" y="354.752">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="76.5" y="372.3613">CapabilityId :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="161.5" y="372.3613">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="76.5" y="389.9707">PermissionId :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="168.5" y="389.9707">guid</text></g><!--MD5=[07620c5d388427f171b3d48d71d1722b]
+class UserGroupGroup--><g id="elem_UserGroupGroup"><rect codeLine="71" fill="#F1F1F1" height="92.8281" id="UserGroupGroup" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="141" x="326.5" y="509.6094"/><ellipse cx="341.5" cy="525.6094" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M340.3594,526.4063 L340.3594,528.9063 L344.6875,528.9063 L344.6875,527.9844 Q344.6875,527.375 344.9297,527.1094 Q345.1719,526.8438 345.5469,526.8438 Q345.9219,526.8438 346.1563,527.1094 Q346.3906,527.375 346.3906,527.9844 L346.3906,530.6094 L338.3906,530.6094 Q337.7656,530.6094 337.5078,530.375 Q337.25,530.1406 337.25,529.75 Q337.25,529.375 337.5156,529.1406 Q337.7813,528.9063 338.3906,528.9063 L338.6563,528.9063 L338.6563,522.25 L338.3906,522.25 Q337.7656,522.25 337.5078,522.0156 Q337.25,521.7813 337.25,521.3906 Q337.25,521.0156 337.5078,520.7813 Q337.7656,520.5469 338.3906,520.5469 L346.0156,520.5469 L346.0156,523.1406 Q346.0156,523.75 345.7891,524.0078 Q345.5625,524.2656 345.1719,524.2656 Q344.7969,524.2656 344.5625,524.0078 Q344.3281,523.75 344.3281,523.1406 L344.3281,522.25 L340.3594,522.25 L340.3594,524.7031 L341.8438,524.7031 Q341.8438,524.0469 341.9688,523.8594 Q342.2344,523.4531 342.7031,523.4531 Q343.0781,523.4531 343.3125,523.7109 Q343.5469,523.9688 343.5469,524.5781 L343.5469,526.5469 Q343.5469,527.0938 343.4219,527.2813 Q343.1563,527.6719 342.7031,527.6719 Q342.2344,527.6719 341.9688,527.2656 Q341.8438,527.0781 341.8438,526.4063 L340.3594,526.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="355.5" y="531.3379">UserGroupGroup</text><line style="stroke:#181818;stroke-width:0.5;" x1="327.5" x2="466.5" y1="541.6094" y2="541.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="332.5" y="560.1426">Id :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="355.5" y="560.1426">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="332.5" y="577.752">UserGroupId :</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="424.5" y="577.752">guid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="332.5" y="595.3613">UserId:</text><text fill="#F4A460" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="380.5" y="595.3613">guid</text></g><g id="elem_GMN19"><path d="M176.5,96.6094 L176.5,105.6094 L141.11,109.6094 L176.5,113.6094 L176.5,122.9609 A0,0 0 0 0 176.5,122.9609 L469.5,122.9609 A0,0 0 0 0 469.5,122.9609 L469.5,106.6094 L459.5,96.6094 L176.5,96.6094 A0,0 0 0 0 176.5,96.6094 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M459.5,96.6094 L459.5,106.6094 L469.5,106.6094 L459.5,96.6094 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="22" x="182.5" y="115.1045">CSI</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="246" x="208.5" y="115.1045">= Contains Customer Sensitive Information</text></g><g id="elem_GMN22"><path d="M505,96.6094 L505,122.9609 A0,0 0 0 0 505,122.9609 L600.95,122.9609 L595.31,233.5594 L608.95,122.9609 L707,122.9609 A0,0 0 0 0 707,122.9609 L707,106.6094 L697,96.6094 L505,96.6094 A0,0 0 0 0 505,96.6094 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M697,96.6094 L697,106.6094 L707,106.6094 L697,96.6094 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="59" x="511" y="115.1045">UserType</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="574" y="115.1045">= [Internal, External]</text></g><!--MD5=[02aed87aace63bb8555eaec6bf165890]
+link User to UserCompany--><g id="link_User_UserCompany"><path codeLine="79" d="M635.94,449.7894 C644.36,467.8794 652.77,485.9194 660.18,501.8394 " fill="none" id="User-to-UserCompany" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="660.3694" x2="670.9953" y1="502.2141" y2="509.4694"/><line style="stroke:#181818;stroke-width:1.0;" x1="660.3694" x2="656.4847" y1="502.2141" y2="509.4694"/><line style="stroke:#181818;stroke-width:1.0;" x1="660.3694" x2="663.74" y1="502.2141" y2="509.4694"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="632.0602" y="471.099">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="655.1018" y="498.6378">*</text></g><!--MD5=[40abd84d458375d3a296777c649c1e04]
+link Company to UserCompany--><g id="link_Company_UserCompany"><path codeLine="80" d="M755.27,405.7894 C740.83,436.4694 723.68,472.9094 709.94,502.1194 " fill="none" id="Company-to-UserCompany" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="709.9195" x2="713.7618" y1="502.1376" y2="509.3794"/><line style="stroke:#181818;stroke-width:1.0;" x1="709.9195" x2="699.2782" y1="502.1376" y2="509.3794"/><line style="stroke:#181818;stroke-width:1.0;" x1="709.9195" x2="706.52" y1="502.1376" y2="509.3794"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="744.6355" y="427.1958">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="704.3136" y="498.8745">*</text></g><!--MD5=[cd25bd82038fd95d2504d5cc27082563]
+link User to UserGroupGroup--><g id="link_User_UserGroupGroup"><path codeLine="81" d="M495.93,443.8794 C477.56,464.5294 458.97,485.4294 442.94,503.4494 " fill="none" id="User-to-UserGroupGroup" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="442.9214" x2="443.5924" y1="503.467" y2="509.4494"/><line style="stroke:#181818;stroke-width:1.0;" x1="442.9214" x2="431.6276" y1="503.467" y2="509.4494"/><line style="stroke:#181818;stroke-width:1.0;" x1="442.9214" x2="437.61" y1="503.467" y2="509.4494"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="480.8888" y="449.4869">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="438.4456" y="498.6148">*</text></g><!--MD5=[99c8af170701bd93f412a9edffc91654]
+link UserGroup to UserGroupGroup--><g id="link_UserGroup_UserGroupGroup"><path codeLine="82" d="M381.54,405.7894 C384.69,436.2094 388.43,472.2994 391.44,501.3694 " fill="none" id="UserGroup-to-UserGroupGroup" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="391.4414" x2="400.227" y1="501.4224" y2="509.3794"/><line style="stroke:#181818;stroke-width:1.0;" x1="391.4414" x2="384.313" y1="501.4224" y2="509.3794"/><line style="stroke:#181818;stroke-width:1.0;" x1="391.4414" x2="392.27" y1="501.4224" y2="509.3794"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="374.8725" y="427.1958">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="386.2081" y="498.8745">*</text></g><!--MD5=[8d2b7741b5072cca49e1641a3ac5b235]
+reverse link UserGroupCapability to UserGroup--><g id="link_UserGroupCapability_UserGroup"><path codeLine="83" d="M241.96,341.6094 C263.89,341.6094 285.82,341.6094 307.75,341.6094 " fill="none" id="UserGroupCapability-backto-UserGroup" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="241.88" x2="233.88" y1="341.6094" y2="349.6094"/><line style="stroke:#181818;stroke-width:1.0;" x1="241.88" x2="233.88" y1="341.6094" y2="333.6094"/><line style="stroke:#181818;stroke-width:1.0;" x1="241.88" x2="233.88" y1="341.6094" y2="341.6094"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="241.3951" y="338.3882">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="293.0117" y="338.2462">1</text></g><!--MD5=[a0485e5c94159bf944add6cc706dd258]
+link Capability to UserGroupCapability--><g id="link_Capability_UserGroupCapability"><path codeLine="84" d="M95.42,173.7594 C106.52,206.5094 120.04,246.3594 131.07,278.8894 " fill="none" id="Capability-to-UserGroupCapability" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="131.1145" x2="141.2509" y1="278.9885" y2="286.5694"/><line style="stroke:#181818;stroke-width:1.0;" x1="131.1145" x2="126.0891" y1="278.9885" y2="286.5694"/><line style="stroke:#181818;stroke-width:1.0;" x1="131.1145" x2="133.67" y1="278.9885" y2="286.5694"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="90.38" y="195.1626">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="125.871" y="275.5877">*</text></g><!--MD5=[5f0ba4da1f476a1e33f954cbffb25e53]
+reverse link UserGroupCapability to Permission--><g id="link_UserGroupCapability_Permission"><path codeLine="85" d="M152,405.1094 C152,438.4994 152,478.8594 152,509.3094 " fill="none" id="UserGroupCapability-backto-Permission" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="152" x2="144" y1="404.7794" y2="396.7794"/><line style="stroke:#181818;stroke-width:1.0;" x1="152" x2="160" y1="404.7794" y2="396.7794"/><line style="stroke:#181818;stroke-width:1.0;" x1="152" x2="152" y1="404.7794" y2="396.7794"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="146.6797" y="418.3626">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="144.4859" y="498.7942">1</text></g><!--MD5=[ed2934d2bc61de15eaec4e430e066032]
+@startuml erd
+title UAM Entity Relation Diagram
+
+
+' ==================== Styles ====================
+!function $type($text) !return "<color:SandyBrown>" + $text + "</color>"
+hide empty members
+
+' !theme reddress-darkblue
+' skinparam linetype ortho
+' skinparam ArrowColor #111
+' skinparam ArrowFontSize 0
+
+
+' ==================== Entities ====================
+entity User {
+  Id : $type(guid)
+  UserType : $type(enum)
+  Email : $type(string)
+  FirstName : $type(string)
+  LastName : $type(string)
+  ActiveUam : $type(boolean)
+  ActiveAad : $type(boolean)
+  UserIdAad : $type("string?")
+  UserNameAad : $type("string?")
+  LastLoginDate : $type(NodaTime)
+}
+
+entity Company {
+  Id : $type(guid)
+  CountryCode : $type(string)
+  BECode : $type(string)
+  FunctionCode : $type(string)
+  IsDeleted : $type(boolean)
+}
+
+entity UserCompany {
+  Id : $type(guid)
+  UserId : $type(guid)
+  CompanyId: $type(guid)
+}
+
+entity UserGroup {
+  Id : $type(guid)
+  Name : $type(string)
+  Description : $type(string)
+  CSI  : $type(boolean)
+  IsDeleted : $type(boolean)
+}
+
+entity Capability {
+  Id : $type(guid)
+  Name : $type(string)
+  Description : $type(string)
+  CSI : $type(boolean)
+  IsDeleted : $type(boolean)
+}
+
+entity Permission {
+  Id : $type(guid)
+  Name : $type(string)
+  Description : $type(string)
+}
+
+entity UserGroupCapability {
+  Id : $type(guid)
+  UserGroupId : $type(guid)
+  CapabilityId : $type(guid)
+  PermissionId : $type(guid)
+}
+
+entity UserGroupGroup {
+  Id : $type(guid)
+  UserGroupId : $type(guid)
+  UserId: $type(guid)
+}
+
+' ==================== Relations ====================
+
+User        "1" -down-{   "*"  UserCompany
+Company     "1" - -{       "*"  UserCompany
+User        "1" - -{       "*"  UserGroupGroup
+UserGroup   "1" - -{       "*"  UserGroupGroup
+UserGroup   "1" -left-{   "*"  UserGroupCapability
+Capability  "1" -down-{   "*"  UserGroupCapability
+Permission  "1" -up-{     "*"  UserGroupCapability
+
+' ==================== Notes ====================
+
+note right of Capability
+   **CSI** = Contains Customer Sensitive Information
+end note
+
+note top of User
+   **UserType** = [Internal, External]
+end note
+
+@enduml
+
+@startuml erd
+title UAM Entity Relation Diagram
+
+
+hide empty members
+
+
+
+entity User {
+  Id : <color:SandyBrown>guid</color>
+  UserType : <color:SandyBrown>enum</color>
+  Email : <color:SandyBrown>string</color>
+  FirstName : <color:SandyBrown>string</color>
+  LastName : <color:SandyBrown>string</color>
+  ActiveUam : <color:SandyBrown>boolean</color>
+  ActiveAad : <color:SandyBrown>boolean</color>
+  UserIdAad : <color:SandyBrown>string?</color>
+  UserNameAad : <color:SandyBrown>string?</color>
+  LastLoginDate : <color:SandyBrown>NodaTime</color>
+}
+
+entity Company {
+  Id : <color:SandyBrown>guid</color>
+  CountryCode : <color:SandyBrown>string</color>
+  BECode : <color:SandyBrown>string</color>
+  FunctionCode : <color:SandyBrown>string</color>
+  IsDeleted : <color:SandyBrown>boolean</color>
+}
+
+entity UserCompany {
+  Id : <color:SandyBrown>guid</color>
+  UserId : <color:SandyBrown>guid</color>
+  CompanyId: <color:SandyBrown>guid</color>
+}
+
+entity UserGroup {
+  Id : <color:SandyBrown>guid</color>
+  Name : <color:SandyBrown>string</color>
+  Description : <color:SandyBrown>string</color>
+  CSI  : <color:SandyBrown>boolean</color>
+  IsDeleted : <color:SandyBrown>boolean</color>
+}
+
+entity Capability {
+  Id : <color:SandyBrown>guid</color>
+  Name : <color:SandyBrown>string</color>
+  Description : <color:SandyBrown>string</color>
+  CSI : <color:SandyBrown>boolean</color>
+  IsDeleted : <color:SandyBrown>boolean</color>
+}
+
+entity Permission {
+  Id : <color:SandyBrown>guid</color>
+  Name : <color:SandyBrown>string</color>
+  Description : <color:SandyBrown>string</color>
+}
+
+entity UserGroupCapability {
+  Id : <color:SandyBrown>guid</color>
+  UserGroupId : <color:SandyBrown>guid</color>
+  CapabilityId : <color:SandyBrown>guid</color>
+  PermissionId : <color:SandyBrown>guid</color>
+}
+
+entity UserGroupGroup {
+  Id : <color:SandyBrown>guid</color>
+  UserGroupId : <color:SandyBrown>guid</color>
+  UserId: <color:SandyBrown>guid</color>
+}
+
+
+User        "1" -down-{   "*"  UserCompany
+Company     "1" - -{       "*"  UserCompany
+User        "1" - -{       "*"  UserGroupGroup
+UserGroup   "1" - -{       "*"  UserGroupGroup
+UserGroup   "1" -left-{   "*"  UserGroupCapability
+Capability  "1" -down-{   "*"  UserGroupCapability
+Permission  "1" -up-{     "*"  UserGroupCapability
+
+
+note right of Capability
+   **CSI** = Contains Customer Sensitive Information
+end note
+
+note top of User
+   **UserType** = [Internal, External]
+end note
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: GB
+--></g></svg>
